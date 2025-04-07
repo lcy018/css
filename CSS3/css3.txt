@@ -1,0 +1,5 @@
+*** 확장프로그램 설치 ***
+1. open in browser
+2. auto rename tag -> 시작과 끝을 같게해주는 것
+3. prettier -> 코드를 자동정렬 -> 모두선택+ctrl + k + f
+4. indent rainbow -> 들여쓰기를 색깔로 구분해서 코드 가독성을 높임
