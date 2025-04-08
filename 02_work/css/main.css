@@ -14,7 +14,7 @@ div h1{
     font-size: 16px;
     font-weight: bold;
     margin-left: 10px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 div .p1{
     color: #a6a4a5;
@@ -45,9 +45,10 @@ div .span3{
 }
 div .p3{
     text-align: justify;
-    margin-top: 38px;
-    margin-bottom: 20px;
+    margin-top: 28px;
+    margin-bottom: 10px;
     font-size: 12px;
+    line-height: 15px;
 }
 div p{
     margin-left: 10px;
