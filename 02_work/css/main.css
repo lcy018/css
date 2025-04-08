@@ -41,11 +41,13 @@ div .span3{
     color: #fbe4ff;
     border: 1px solid #60428c;
     margin-left: 10px;
+    font-size: 11px;
 }
 div .p3{
     text-align: justify;
     margin-top: 38px;
     margin-bottom: 20px;
+    font-size: 12px;
 }
 div p{
     margin-left: 10px;
