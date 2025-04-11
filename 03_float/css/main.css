@@ -1,0 +1,77 @@
+@charset "utf-8";
+body{
+    font-family: "맑은 고딕","malgun gothic",sans-serif;
+}
+h1{
+    text-align: center;
+    font-size: 25px;
+}
+.wrap{
+    width: 230px;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid #555555;
+}
+.header{
+    width: 230px;
+    height: 50px;
+    background: #c9edff;
+    color: #6d6d6d;
+    text-align: center;
+    line-height: 50px;
+    margin-bottom: 10px;
+    font-weight: 900;
+}
+.nav{
+    width: 230px;
+    height: 20px;
+    background: #facfd6;
+    color: #6d6d6d;
+    text-align: center;
+    line-height: 20px;
+    margin-bottom: 10px;
+    font-weight: 900;
+}
+.div1{
+    width: 230px;
+    height: 240px;
+    margin-bottom: 10px;
+}
+.div1 .aside{
+    width: 80px;
+    height: 240px;
+    background: #fff2b5;
+    color: #6d6d6d;
+    text-align: center;
+    line-height: 240px;
+    float: right;
+    font-weight: 900;
+}
+.div1 .section {
+    width: 140px;
+    height: 120px;
+    background: #edffa8;
+    color: #6d6d6d;
+    text-align: center;
+    line-height: 124px;
+    margin-bottom: 10px;
+    font-weight: 900;
+}
+.div1 .article{
+    width: 140px;
+    height: 110px;
+    background: #ded1ed;
+    color: #6d6d6d;
+    text-align: center;
+    line-height: 110px;
+    font-weight: 900;
+}
+.footer{
+    width: 230px;
+    height: 48px;
+    background: #baffd6;
+    color: #6d6d6d;
+    text-align: center;
+    line-height: 48px;
+    font-weight: 900;
+}
