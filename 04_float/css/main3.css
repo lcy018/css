@@ -1,0 +1,68 @@
+@charset "utf-8";
+body{
+    font-family: "맑은 고딕","malgun gothic",sans-serif;
+    background: #ccc;
+}
+.wrap{
+    width: 445px;
+    margin: auto;
+}
+.div{
+    width: 445px;
+    height: 180px;
+    background: #ffdfdf;
+    border-radius: 16px;
+    margin-bottom: 10px;
+    line-height: 180px;
+    color: #777e85;
+    font-size: 24px;
+    font-weight:900;
+    text-align: center;
+}
+.div2{
+    width: 445px;
+    height: 270px;
+    border-radius: 16px;
+    margin-bottom: 10px;
+    line-height: 270px;
+    color: #777e85;
+    font-size: 24px;
+    font-weight:900;
+    text-align: center;
+}
+.div2 .div3{
+    width: 130px;
+    height: 270px;
+    background: #ffe1c3;
+    float: left;
+    border-radius: 16px;
+    margin-right: 10px;
+    line-height: 270px;
+    color: #777e85;
+    font-size: 24px;
+    font-weight:900;
+    text-align: center;
+}
+.div2 .div4{
+    width: 305px;
+    height: 270px;
+    background: #d9f8ff;
+    float: left;
+    border-radius: 16px;
+    line-height: 270px;
+    color: #777e85;
+    font-size: 24px;
+    font-weight:900;
+    text-align: center;
+}
+.div5{
+    width: 445px;
+    height: 60px;
+    background: #e1f7de;
+    border-radius: 16px;
+    line-height: 60px;
+    color: #777e85;
+    font-size: 24px;
+    font-weight:900;
+    text-align: center;
+}
