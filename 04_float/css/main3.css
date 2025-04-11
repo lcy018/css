@@ -6,6 +6,7 @@ body{
 .wrap{
     width: 445px;
     margin: auto;
+    padding: 10px;
 }
 .div{
     width: 445px;
