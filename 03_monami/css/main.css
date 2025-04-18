@@ -9,6 +9,7 @@ li{
 }
 a{
     text-decoration: none;
+    color:#000;
 }
 .header{
     width: 100%;
@@ -30,6 +31,7 @@ a{
 .header .inner .gnb li{
     float: left;
     line-height: 89px;
+    
 }
 
 .header .inner .gnb .first{
@@ -66,4 +68,13 @@ a{
 .header .inner .icon .first{
     margin-left: 0;
     margin-top: 3.5px;
+}
+
+.visual{
+    width: 100%;
+    height: 652px;
+    background: url("../images/monami_background.jpg") no-repeat center top;
+}
+.header .inner .gnb li:hover a{
+    color: #C74E6A;
 }

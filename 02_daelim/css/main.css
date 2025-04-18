@@ -50,3 +50,12 @@ a{
 .header .inner .icon .last2{
     margin-top: 3px;
 }
+.visual{
+    width: 100%;
+    height: 920px;
+    background: url("../images/main_01_03.jpg") no-repeat center top;
+}
+
+.header .inner .gnb li:hover a{
+    color: #002B5C;
+}
