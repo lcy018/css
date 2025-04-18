@@ -1,0 +1,140 @@
+@charset "utf-8";
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://fastly.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+body{
+    font-family: 'Pretendard-Regular',sans-serif;
+    background: #fff;
+}
+/* 여백 초기화 */
+*{margin: 0;padding: 0;}
+
+/* 하이퍼링크 초기화 */
+a{text-decoration: none;}
+/* li앞에 특수문자 초기화 */
+li{ list-style: none;}
+/* 버튼 초기화 */
+button{
+    background: none;
+    border: none;
+    /* 하이퍼링크설정 */
+    cursor: pointer;
+}
+
+
+
+
+.header{
+    width: 100%;
+    height: 90px;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 50px;
+}
+.header ul{
+    height: 90px;
+    width: 550px;
+    margin: auto;
+}
+
+.header ul li{
+    float: left;
+    line-height: 90px;
+    margin-right: 80px;
+}
+.header ul .last {
+    margin-right: 0;
+}
+.header ul li a{
+    color: #000;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+/* 롤오버 기능을 줄때(:hover) */
+/* 마우스가 주메뉴 영역안에 있으면 글자색바꾸기 */
+.header ul li:hover a{
+    color: #5185C1;
+}
+
+/* 버튼 디자인 */
+.box{
+    width: 800px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.btn1{
+    border: 1px solid #dfdfdf;
+    /* margin: auto; */
+    width: 234px;
+    height: 73px;
+    border-radius: 12px;
+    font-size: 20px;
+    background: url;
+}
+.btn1:hover{
+    background: #000;
+    color: #fff;
+}
+
+
+.btn2{
+    width: 112px;
+    height: 40px;
+    border-bottom: 1px solid #222;
+    text-align: left;
+    background:url("../images/ico_plus.png")  no-repeat right center;
+}
+
+.btn3{
+    width: 240px;
+    height: 38px;
+    border: 1px solid #C8C8C8;
+    text-align: left;
+    /* 글자를 안쪽으로 들여쓰기 */
+    text-indent: 20px;
+    background: url("../images/ico_sel_arr.gif") no-repeat 217px center;
+}
+.btn3:hover{
+    border: 1px solid #333;
+}
+.btn4{
+    width: 122px;
+    height: 40px;
+    border-radius: 999px;
+    background: #000;
+    color: #fff;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 900;
+}
+.btn4:hover{
+    border: 1px solid #000;
+    background: #fff;
+    color: #000;
+}
+.btn5{
+    width: 180px;
+    height: 45px;
+    border-radius: 999px;
+    background: #000;
+    color: #fff;
+    text-align: left;
+    text-indent: 15px;
+    font-size: 16px;
+    font-weight: 600;
+    border: 1px solid #5F5F5F;
+    background: #000 url("../images/icon_arrow_top_16x16_w.svg") no-repeat 148px center;
+}
+.box2{
+    width: 800px;
+    height: 70px;
+    margin: auto;
+    background: #000;
+}
+.btn5:hover{
+    background: #303030;
+    background: #303030 url("../images/icon_arrow_top_16x16_w.svg") no-repeat 148px center;
+}
