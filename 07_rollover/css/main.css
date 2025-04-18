@@ -127,6 +127,7 @@ button{
     font-weight: 600;
     border: 1px solid #5F5F5F;
     background: #000 url("../images/icon_arrow_top_16x16_w.svg") no-repeat 148px center;
+    margin: 10px 0 0 10px;
 }
 .box2{
     width: 800px;
@@ -137,4 +138,17 @@ button{
 .btn5:hover{
     background: #303030;
     background: #303030 url("../images/icon_arrow_top_16x16_w.svg") no-repeat 148px center;
+}
+.btn6{
+    width: 180px;
+    height: 58px;
+    border-radius: 10px;
+    background: #235CF4;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 50px;
+}
+.btn6:hover{
+    background: #1349D7;
 }
