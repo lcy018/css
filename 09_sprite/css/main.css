@@ -45,7 +45,7 @@ a{text-decoration: none;}
     background-position-y: -68px;
 }
 .header ul .li3 a{
-    width: 90px;
+    width: 88px;
     height: 33px;
     background: url(../images/btn_lnb_v3.png) no-repeat;
     background-position-x: -265px;
@@ -54,16 +54,16 @@ a{text-decoration: none;}
     background-position-y: -68px;
 }
 .header ul .li4 a{
-    width: 95px;
+    width: 90px;
     height: 33px;
     background: url(../images/btn_lnb_v3.png) no-repeat;
-    background-position-x: -920px;
+    background-position-x: -922px;
 }
 .header ul .li4:hover a{
     background-position-y: -68px;
 }
 .header ul .li5 a{
-    width: 95px;
+    width: 91px;
     height: 33px;
     background: url(../images/btn_lnb_v3.png) no-repeat;
     background-position-x: -435px;
@@ -73,7 +73,7 @@ a{text-decoration: none;}
 }
 
 .header ul .li6 a{
-    width: 117px;
+    width: 108px;
     height: 33px;
     background: url(../images/btn_lnb_v3.png) no-repeat;
     background-position-x: -630px;
@@ -82,10 +82,10 @@ a{text-decoration: none;}
     background-position-y: -68px;
 }
 .header ul .last a{
-    width: 70px;
+    width: 68px;
     height: 33px;
     background: url(../images/btn_lnb_v3.png) no-repeat;
-    background-position-x: -845px;
+    background-position-x: -840px;
 }
 .header ul .last:hover a{
     background-position-y: -68px;
