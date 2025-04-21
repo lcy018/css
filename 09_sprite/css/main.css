@@ -54,7 +54,7 @@ a{text-decoration: none;}
     background-position-y: -68px;
 }
 .header ul .li4 a{
-    width: 98px;
+    width: 95px;
     height: 33px;
     background: url(../images/btn_lnb_v3.png) no-repeat;
     background-position-x: -920px;
@@ -73,7 +73,7 @@ a{text-decoration: none;}
 }
 
 .header ul .li6 a{
-    width: 119px;
+    width: 117px;
     height: 33px;
     background: url(../images/btn_lnb_v3.png) no-repeat;
     background-position-x: -630px;
@@ -82,10 +82,10 @@ a{text-decoration: none;}
     background-position-y: -68px;
 }
 .header ul .last a{
-    width: 76px;
+    width: 70px;
     height: 33px;
     background: url(../images/btn_lnb_v3.png) no-repeat;
-    background-position-x: -840px;
+    background-position-x: -845px;
 }
 .header ul .last:hover a{
     background-position-y: -68px;
